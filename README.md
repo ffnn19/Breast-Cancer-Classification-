@@ -1,1 +1,4 @@
-# Breast-Cancer-Classification-
+# Breast-Cancer-Classification🏥
+## 📖Diskripsi Data
+Kanker payudara adalah kanker yang paling umum terjadi pada wanita di dunia. Kanker ini menyumbang 25% dari semua kasus kanker, dan mempengaruhi lebih dari 2,1 Juta orang pada tahun 2015. Kanker ini bermula ketika sel-sel di payudara tumbuh secara tidak terkendali membentuk tumor yang dapat dilihat melalui sinar-X atau dirasakan sebagai benjolan di area payudara.
+Salah satu tantangan utama dalam mendeteksi kanker payudara adalah mengklasifikasikan tumor sebagai ganas (kanker) atau jinak (non-kanker). Oleh karena itu, kami meminta Anda untuk menyelesaikan analisis klasifikasi tumor ini menggunakan pembelajaran mesin (dengan SVM) dan dataset Breast Cancer Wisconsin (Diagnostic). (https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer)
